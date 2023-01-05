@@ -1,11 +1,15 @@
 {
   "name": "use-delayed-search",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "useDelayedSearch is a react hook to delay search value",
   "author": "Ali Toshmatov",
   "license": "MIT",
   "types": "./lib/cjs/types/index.d.ts",
   "main": "./lib/cjs/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alitoshmatov/use-delayed-search.git"
+  },
   "scripts": {
     "clean": "rm -rf ./lib",
     "build": "npm run clean && npm run build:esm && npm run build:cjs",

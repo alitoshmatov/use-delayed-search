@@ -1,6 +1,6 @@
 {
   "name": "use-delayed-search",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "useDelayedSearch is a react hook to delay search value",
   "author": "Ali Toshmatov",
   "license": "MIT",

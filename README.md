@@ -1,6 +1,6 @@
 # useDelayedSearch
 
-![Usage of useDelayedSearch hook](https://media.giphy.com/media/vmuZXtyhqVXNwvXbA1/giphy.gif)
+![Usage of useDelayedSearch hook](https://media.giphy.com/media/oDmZBTvPOeJLG0OSKl/giphy.gif)
 
 ## Getting Started
 
